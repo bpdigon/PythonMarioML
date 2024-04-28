@@ -1,0 +1,8 @@
+name: mario
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - powershell_shortcut
+  - notebook
+prefix: C:\Users\ivanc\anaconda3\envs\mario
