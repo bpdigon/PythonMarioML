@@ -7,6 +7,7 @@ The second file is 'mario.yml'
 There are two ways to run the model:
 1. Uncomment all lines with a pip install. This will make it so when the cells are run they will install the packages they need as you go
 2. Using the 'mario.yml' file, create a python environment with the necessary packages to run the model. A command such as 'conda create' or simply using 'yum install PACKAGENAME' works.
+    mario_env.txt serves as an alternative list with all packages
 
 Notes and considerations
 1. Microsoft Visual Studio needed to be installed and updated for the GUI containing Mario to display.
